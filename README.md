@@ -1,7 +1,9 @@
 # Hello!
 
-I'm Cody! 👋 An Aspiring Web Developer ⌨
+I'm Cody! 👋
+Web Development
+Game Development
+Anything that catches my interest!
 
-I'm Currently focused on expanding my JavaScript Skills, as well as learning new techniques and technologies.
-
-### cklaxon.co.uk
+Currently Working on a tower defense game!
+Watch my itch.io for updates - https://codyk4.itch.io/
