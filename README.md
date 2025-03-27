@@ -1,9 +1,7 @@
 # Hello!
 
-I'm Cody! 👋
-Web Development
-Game Development
-Anything that catches my interest!
+I'm Cody! 👋 
 
-Currently Working on a tower defense game!
-Watch my itch.io for updates - https://codyk4.itch.io/
+I work on Web Projects, Game Projects, or anything that catches my interest!
+
+Currently Working on a tower defense game, watch my itch.io page for further info and updates - https://codyk4.itch.io/
